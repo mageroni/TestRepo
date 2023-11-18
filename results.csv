@@ -2,4 +2,4 @@ enterprise_name,organization_name,repository_name,issue_id,issue_number,PR_numbe
 ,,TestRepo,2000259180,40,9,mageroni,1,> 11% but < 20%,About Half of the time,,2023-11-18T05:47:49Z,2023-11-18T05:48:05Z
 ,,TestRepo,2000263554,43,5,mageroni,1,> 11% but < 20%,About Half of the time,,2023-11-18T06:04:09Z,2023-11-18T06:04:21Z
 ,,TestRepo,2000265659,44,1,mageroni,1,> 21% but < 30%,Some of the time,,2023-11-18T06:11:20Z,2023-11-18T06:14:42Z
-,,TestRepo,2000276027,45,14,mageroni,1,> 0% but < 10%,About Half of the time,Este es comentario 1,2023-11-18T06:39:59Z,2023-11-18T06:48:18Z
+,,TestRepo,2000276027,45,14,mageroni,1,> 0% but < 10%,About Half of the time,Este es comentario 1 || Este comentario 2,2023-11-18T06:39:59Z,2023-11-18T06:53:33Z
