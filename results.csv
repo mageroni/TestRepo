@@ -1,3 +1,4 @@
 enterprise_name, organization_name, repository_name, issue_id, issue_number, PR_number, assignee_name, is_copilot_used, saving_percentage, usage_frequency, comment, created_at, completed_at
 ,,TestRepo,2000259180,40,9,mageroni,1,> 11% but < 20%,About Half of the time,,2023-11-18T05:47:49Z,2023-11-18T05:48:05Z
 ,,TestRepo,2000263554,43,5,mageroni,1,,,,2023-11-18T06:04:09Z,2023-11-18T06:04:17Z
+,,TestRepo,2000263554,43,5,mageroni,1,> 11% but < 20%,,,2023-11-18T06:04:09Z,2023-11-18T06:04:18Z
