@@ -6,3 +6,4 @@ enterprise_name, organization_name, repository_name, issue_id, issue_number, PR_
 ,,TestRepo,2000240414,37,14,mageroni,1,> 21% but < 30%,,,2023-11-18T05:24:44Z,2023-11-18T05:24:57Z
 ,,TestRepo,2000240414,37,14,mageroni,1,> 21% but < 30%,,,2023-11-18T05:24:44Z,2023-11-18T05:24:59Z
 ,,TestRepo,2000240414,37,14,mageroni,1,> 21% but < 30%,,,2023-11-18T05:24:44Z,2023-11-18T05:25:32Z
+,,TestRepo,2000240414,37,14,mageroni,1,> 21% but < 30%,Some of the time,,2023-11-18T05:24:44Z,2023-11-18T05:25:34Z
